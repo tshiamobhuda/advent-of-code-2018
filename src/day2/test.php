@@ -7,5 +7,7 @@ return [
     ],
 
     // part 2
-    []
+    [
+        'abcde, fghij, klmno, pqrst, fguij, axcye, wvxyz' => 'fgij',
+    ]
 ];
